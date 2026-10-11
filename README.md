@@ -1,4 +1,4 @@
-In case you are wondering, you need to clone github into the project. You need:
+In case you are wondering, you need to clone ImGui into the project. You need:
 ```
 imgui/
 ├── imgui.cpp
