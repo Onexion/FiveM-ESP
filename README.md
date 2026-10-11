@@ -1,4 +1,6 @@
-In case you are wondering, you need to clone ImGui into the project. You need:
+In case you are wondering, you need to clone ImGui into the project.
+
+You need:
 ```
 imgui/
 ├── imgui.cpp
@@ -17,3 +19,4 @@ imgui/
     ├── imgui_impl_dx11.cpp
     └── imgui_impl_dx11.h
 ```
+Also this is only for FiveM Build 3258, if you want other ones, you need to change it.
